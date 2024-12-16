@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/SN9cZ4Hh/git-banner.webp)
+![Banner](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 <h1 align="center">Hi 👋, I'm Safwan Hossain Mridul</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
@@ -8,6 +8,8 @@
 <p align="center"> <a href="https://github.com/safwan169/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwan169&row=1&column=6&theme=onedark" alt="safwan169" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safwan169&label=Profile%20views&color=0e75b6&style=flat" alt="safwan169" /> </p>
 <h2>   <img src = "https://gist.githubusercontent.com/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%2520Me.gif" width="200px" height="40px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" />
+
 
 - 🌱 I’m currently learning **TypeScript , MySQL**
 
