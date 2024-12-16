@@ -6,7 +6,8 @@
 
 
 <p align="center"> <a href="https://github.com/safwan169/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwan169&row=1&column=6&theme=onedark" alt="safwan169" /></a> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=safwan169&label=Profile%20views&color=0e75b6&style=flat" alt="safwan169" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=safwan169&label=Profile%20views&color=0e75b6&style=flat" alt="safwan169" /> </p>
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 - 🌱 I’m currently learning **TypeScript , MySQL**
 
