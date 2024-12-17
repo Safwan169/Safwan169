@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Safwan Hossain Mridul</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan169&" alt="safwan169" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan169&" alt="" /></p>
 
 
 <p align="center"> <a href="https://github.com/safwan169/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwan169&row=1&column=6&theme=onedark" alt="safwan169" /></a> </p>
