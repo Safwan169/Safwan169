@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **TypeScript , MySQL**
 
-- 👨‍💻 All of my projects are available at <a href="https://personalportfolio-self-six.vercel.app" >Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://personalportfolio-self-six.vercel.app" >Portfolio</a>
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **safwanhossainmridul@gmail.com**
