@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
-<h1 align="center">Hi 👋, I'm Safwan Hossain Mridul</h1>
+<h1 align="center">Hi👋, I'm Safwan Hossain Mridul</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan169&" alt="" /></p>
 
